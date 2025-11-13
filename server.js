@@ -1,0 +1,10 @@
+// Se ejecuta cuando quiero iniciar el servidor
+import app from './app.js';
+
+const port = process.env.PORT || 3001
+
+// 3. ejecutar el servidor en nuestro computador
+app.listen(port, ()=>{
+    console.log('El servidor está ejecutándose correctamente, en el puerto ', port);
+});
+
