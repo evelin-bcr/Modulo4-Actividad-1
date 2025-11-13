@@ -69,7 +69,7 @@
 
 ## 3. Prueba exitosa
  ![Prueba exitosa](./imgs/imagen2.png)
-
+ 
 ## 4. Prueba con error
  ![Prueba con error](./imgs/imagen3.png)
 
