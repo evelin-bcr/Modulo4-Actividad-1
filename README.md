@@ -62,14 +62,22 @@
 ## Taller
 
 
-1. Creación del repositorio
+## 1. Creación del repositorio
 
+## 2. Ejecución del servidor
 2. ![Ejecución del servidor](./imgs/imagen1.png)
 
+## 3. Prueba exitosa
 3. ![Prueba exitosa](./imgs/imagen2.png)
 
+
+## 4. Prueba con error
 4. ![Prueba con error](./imgs/imagen3.png)
 
+
+## 5. Inicio de sesión caso 1
 5. ![Inicio de sesión caso 1](./imgs/imagen4.png)
 
+
+## 6. Pruebas de inicio de sesión exitosas
 6. ![Pruebas de inicio de sesión exitosas](./imgs/imagen5.png)
