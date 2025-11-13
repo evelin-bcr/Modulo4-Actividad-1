@@ -70,14 +70,11 @@
 ## 3. Prueba exitosa
  ![Prueba exitosa](./imgs/imagen2.png)
 
-
 ## 4. Prueba con error
  ![Prueba con error](./imgs/imagen3.png)
 
-
 ## 5. Inicio de sesión caso 1
  ![Inicio de sesión caso 1](./imgs/imagen4.png)
-
 
 ## 6. Pruebas de inicio de sesión exitosas
  ![Pruebas de inicio de sesión exitosas](./imgs/imagen5.png)
